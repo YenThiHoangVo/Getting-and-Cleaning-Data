@@ -10,6 +10,8 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+See the file Codebook.md for more information about the dataset.
+
 The script for this analysis (run_analysis.R) does the following tasks:
 
 1. Merges the training and the test sets to create one data set.
